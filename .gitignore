@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Generated output
+data/clustered_customers.csv
